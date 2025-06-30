@@ -1,7 +1,7 @@
 # leadrouter
 
 # Clone repository
-git clone https://github.com/your-repo/lead-routing-engine.git
+git clone [https://github.com/your-repo/lead-routing-engine.git](https://github.com/Nivedita967/leadrouter.git)
 
 # Build project
 mvn clean install
